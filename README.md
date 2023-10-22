@@ -1,6 +1,6 @@
 # myRecipes Web App (MERN STACK)
 
-## Built using the MERN Stack, (React, MongoDB + Mongoose, ExpressJS, NodeJS) + JWT for user token auth, Bcrypt for pw hashing, Cloudinary for profile pictures and imagery and Chakra UI
+## Built using the MERN Stack, (React, MongoDB + Mongoose, ExpressJS, NodeJS) + JWT for user token auth, Bcrypt for pw hashing, Cloudinary for profile pictures and imagery and Chakra UI for css styling
 
 ## What this web app is about:
 ### This is a web app that allows chefs, or any cook enthusiast to create, manage and share their recipes with others, people can communicate/message and follow  each other and their favorite chefs to keep up to date with their latest posts and recipes, user's can save other user's recipes, and create and manage shopping lists for what they may need for their next recipe they want to cook.
